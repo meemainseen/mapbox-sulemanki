@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: '',
             
-            description: "A through traffic from Baba Farid’s Pakpattan to the grand railway bazar of Bhatinda, is abrupty cut off by a small patch of 'No Man's Land' at Sadiqia borderpost just next to Sulemanki Headworks. This location is just on the tip of Fazilka bulge jutting into Pakistani territory.<br>The ‘Monsoon War’ south of Sutlej was no mach to the fanfare at Lahore and Sialkot sectors. The operations had a modest aim of 'straightening out the bulge’ and in the process win some territory to sit on and bargain. A clue to the operations in Sulemanki - Fazilka sector, dear reader, comes to us from the modest town of Haveli Lakha.",
+            description: "A through traffic from Baba Farid’s Pakpattan to the grand railway bazar of Bathinda, is abrupty cut off by a small patch of 'No Man's Land' at Sadiqia border post just next to Sulemanki Headworks. This location is just on the tip of Fazilka bulge jutting into Pakistani territory.<br>The ‘Monsoon War’ south of Sutlej was no mach to the fanfare at Lahore and Sialkot sectors. The operations had a modest aim of 'straightening out the bulge’ and in the process win some territory to sit on and bargain. A clue to the operations in Sulemanki - Fazilka sector, dear reader, comes to us from the modest town of Haveli Lakha.",
             location: {
                 center: [73.17847, 30.32162],
                 zoom: 7.46,
@@ -73,7 +73,7 @@ var config = {
             hidden: false,
             title: 'The Graves of Haveli Lakha',
             image: './images/graves.jpg',
-            description: "Driving out of Haveli Lakha on a bearing to Head Sulemanki is Martyrs' Graveyard. Graceful in whitewash, neatly aligned and well kept these graves belong to 1 Baloch. These soldiers of 'The Gallant One' were among the leading elements that had attacked Asafwala.",
+            description: "Driving out of Haveli Lakha on a bearing to Head Sulemanki situated beside the road is Martyrs' Graveyard. Gracefully whitewashed, neatly aligned and well kept these graves belong to 1 Baloch. These soldiers of 'The Gallant One' were among the leading elements that had attacked Asafwala.",
             location: {
                 center: [73.72684, 30.46254],
                 zoom: 12.33,
@@ -104,7 +104,7 @@ var config = {
             hidden: false,
             title: '',
             image: './images/board.jpg',
-            description: 'The board announces that on the morning of 9th September, Delta Company of 1 Baloch attacked Asaf Wala and that these soldiers embraced shahadat in that gallant action. It goes on to state that Asaf Wala was captured. Well, not exactly',
+            description: 'An on-site board announces that on the morning of 9th September, Delta Company of 1 Baloch attacked Asafwala and that these soldiers embraced shahadat in that gallant action. It goes on to state that Asafwala was captured. Well, not exactly.',
             location: {
                 center: [73.72684, 30.46254],
                 zoom: 12.33,
@@ -177,7 +177,7 @@ var config = {
             hidden: false,
             title: 'The Nabha Akal Battalion',
             image: './images/nabha.jpg',
-            description: "14 Punjab (Nabha Akal) defended the Asaf Wala post on Fazilka Road. Indian accounts tell us that having repulsed the assault by 1st Baloch, later into the battle their locality came under deliberate attacks by 22 Punjab. In the span of two days they beat back more than 4 attempts giving an excellent account of themselves.",
+            description: "14 Punjab (Nabha Akal) defended the Asafwala post on Fazilka Road. Indian accounts tell us that having repulsed the assault by 1st Baloch, later into the battle their locality came under deliberate attacks by 22 Punjab. In the span of two days they beat back more than 4 attempts giving an excellent account of themselves.",
             location: {
                 center: [73.95028, 30.36785],
                 zoom: 14.93,
@@ -209,7 +209,7 @@ var config = {
             hidden: false,
             title: 'Action at Chananwala',
             image: './images/farooq.jpg',
-            description: "A performance par excellence was also delivered by Pakistani 4 Punjab. Chananwala initially captured by 1 Baloch was converted to a well defended locality by 4 Punjab who were well dug in by 23 Sep. This location came under a formidable Indian counter attack on 25 Sep.<br>___<br>The picture above is the then Lieutenant Farooq Nawaz Janjua Sitara-e-Jurat who fought with utmost valour at 4 Chananwala.<br>@courtesy @leftofthepincer",
+            description: "A performance par excellence was also delivered by Pakistani 4 Punjab. Chananwala initially captured by 1 Baloch was converted to a well defended locality by 4 Punjab who were well dug in by 23 Sep. This location came under a formidable Indian counter attack on 25 Sep.<br>___<br>The picture above is the then Lieutenant Farooq Nawaz Janjua Sitara-e-Jurat who fought with utmost valour at Chananwala.<br>image courtesy @leftofthepincer",
             location: {
                 center: [73.94762, 30.36572],
                 zoom: 13.25,
@@ -235,7 +235,7 @@ var config = {
             hidden: false,
             title: "Bobby's 4 Punjab",
             image: './images/chananwala.jpg',
-            description: "3/9 Gorkha Rifles supported by an Armour Squadron attacked Chananwala. 4 Punjab absorbed the Phase 1 thrust by two companies with patience and then struck back. In a brilliant maneuver they encircled the attacking companies. 2 Officers, 4 JCOs and 45 Soldiers were taken prisoner.<br>___<br>In the picture above General Musa pins the Sitara-e-Jurat on Lieutenant Colonel Jehanzeb 'Bobby' Arbab, commanding officer of the 4ᵗʰ Punjab.<br>courtesy @leftofthepincer",
+            description: "3/9 Gorkha Rifles supported by an Armour Squadron attacked Chananwala. 4 Punjab absorbed the Phase 1 thrust by two companies with patience and then struck back. In a brilliant maneuver they encircled the attacking companies. 2 Officers, 4 JCOs and 45 Soldiers were taken prisoner.<br>___<br>In the picture above General Musa pins the Sitara-e-Jurat on Lieutenant Colonel Jehanzeb 'Bobby' Arbab, commanding officer of the 4ᵗʰ Punjab.<br>image courtesy @leftofthepincer",
             location: {
                 center: [73.94847, 30.35364],
                 zoom: 14.83,
