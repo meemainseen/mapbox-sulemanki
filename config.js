@@ -31,28 +31,33 @@ var config = {
                 {
                     layer: 'fazilka-points',
                     opacity: 0,
+                    duration: 0
                 },
                 {
                     layer: 'fazilka-blue1',
                     opacity: 0,
+                    duration: 0
                 },
                 {
                     layer: 'fazilka-fox1',
                     opacity: 0,
+                    duration: 0
                 },
                 {
                     layer: 'fazilka-blue2',
                     opacity: 0,
+                    duration: 0
                 },
                 {
                     layer: 'fazilka-fox2',
                     opacity: 0,
+                    duration: 0
                 },
 
                 {
                     layer: 'pakpattan-bhatinda',
                     opacity: 1,
-                    duration: 5000,
+                    duration: 10000
                 }
             ],
             onChapterExit: [
