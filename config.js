@@ -56,7 +56,7 @@ var config = {
 
                 {
                     layer: 'pakpattan-bhatinda',
-                    opacity: 1,
+                    opacity: 0.5,
                     duration: 10000
                 }
             ],
