@@ -57,7 +57,7 @@ var config = {
                 {
                     layer: 'pakpattan-bhatinda',
                     opacity: 0.5,
-                    duration: 10000
+                    duration: 5000
                 }
             ],
             onChapterExit: [
