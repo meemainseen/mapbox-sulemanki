@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: '',
             
-            description: "Along the imaginary line that joins Baba Farid’s Pakpattan to the grand railway bazar of Bhatinda, if you stop by Sulemanki Headworks, the location is just on the tip of Fazilka bulge jutting into Pakistani territory.<br>The ‘Monsoon War’ south of Sutlej was no mach to the fanfare at Lahore and Sialkot sectors. The operations had a modest aim of 'straightening out the bulge’ and in the process win some territory to sit on and bargain. A clue to the operations in Sulemanki - Fazilka sector, dear reader, comes to us from the modest town of Haveli Lakha.",
+            description: "A through traffic from Baba Farid’s Pakpattan to the grand railway bazar of Bhatinda, is abrupty cut off by a small patch of 'No Man's Land' at Sadiqia borderpost just next to Sulemanki Headworks. This location is just on the tip of Fazilka bulge jutting into Pakistani territory.<br>The ‘Monsoon War’ south of Sutlej was no mach to the fanfare at Lahore and Sialkot sectors. The operations had a modest aim of 'straightening out the bulge’ and in the process win some territory to sit on and bargain. A clue to the operations in Sulemanki - Fazilka sector, dear reader, comes to us from the modest town of Haveli Lakha.",
             location: {
                 center: [73.17847, 30.32162],
                 zoom: 7.46,
@@ -47,6 +47,12 @@ var config = {
                 {
                     layer: 'fazilka-fox2',
                     opacity: 0,
+                },
+
+                {
+                    layer: 'pakpattan-bhatinda',
+                    opacity: 1,
+                    duration: 5000,
                 }
             ],
             onChapterExit: [
@@ -73,6 +79,11 @@ var config = {
             rotateAnimation: false,
             callback: '',
             onChapterEnter: [
+                {
+                    layer: 'pakpattan-bhatinda',
+                    opacity: 0,
+                },
+
                 {
                     layer: 'fazilka-points',
                     opacity: 1,
